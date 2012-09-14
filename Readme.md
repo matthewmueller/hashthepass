@@ -10,7 +10,7 @@
 
 ## From the command line
 
-    # hashthepass <url> <pass>
+    # Usage: hashthepass <url> <pass>
     $ hashthepass google.com P@$$W0RD
     => "$83937863755a222f"
 
