@@ -1,7 +1,9 @@
 
-# hash the pass
+# Hash the Pass
 
-  Generate a hash for your passwords based on the site
+  Generate a hash for your passwords based on the site URL. 
+
+  Hash the Pass ignores subdomains and TLD names, so `accounts.google.com`, `google.com`, `www.google.com.au` `google` all resolve to `google`.
 
 ## Installation
 
