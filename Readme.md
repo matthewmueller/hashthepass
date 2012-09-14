@@ -1,9 +1,8 @@
-
-# Hash the Pass
+# hash the pass
 
   Generate a hash for your passwords based on the site URL. 
 
-  Hash the Pass ignores subdomains and TLD names, so `accounts.google.com`, `google.com`, `www.google.com.au` `google` all resolve to `google`.
+  hash the pass ignores subdomains and TLD names, so `accounts.google.com`, `google.com`, `www.google.com.au` `google` all resolve to `google`.
 
 ## Installation
 
@@ -11,9 +10,9 @@
 
 ## From the command line
 
-    # hashthepass <url> <pass>
+    # Usage: hashthepass <url> <pass>
     $ hashthepass google.com P@$$W0RD
-    => "$c657627f9ba642e9"
+    => "$83937863755a222f"
 
 ## License 
 
