@@ -1,0 +1,13 @@
+{
+  "name": "hashthepass",
+  "version": "0.0.1",
+  "description": "Generate a hash for your passwords based on the site",
+  "keywords": ["hash", "pass"],
+  "author": "Matt Mueller <mattmuelle@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index",
+  "bin": {
+    "hashthepass" : "./bin/hashthepass"
+  }
+}

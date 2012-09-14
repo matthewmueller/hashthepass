@@ -1,0 +1,19 @@
+#!/usr/bin/env node
+
+var hash = require('../');
+    args = process.argv.slice(2),
+    url = args[0],
+    pass = args[1];
+
+/**
+ * Usage information
+ */
+
+var usage = 'Usage: hashthepass <url> <pass>';
+
+if(!url || !pass) {
+  console.log(usage);
+  process.exit(1);
+}
+
+console.log(hash(url, pass));
