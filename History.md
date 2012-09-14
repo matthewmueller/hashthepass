@@ -1,3 +1,7 @@
+0.0.3 / 2012-08-13
+
+* Ugh, some sites do not accept special chars
+
 0.0.2 / 2012-08-13
 ==================
 

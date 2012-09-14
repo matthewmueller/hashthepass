@@ -1,6 +1,6 @@
 {
   "name": "hashthepass",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate a hash for your passwords based on the site",
   "keywords": ["hash", "pass", "urls", "security"],
   "author": "Matt Mueller <mattmuelle@gmail.com>",
